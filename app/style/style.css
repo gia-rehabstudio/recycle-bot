@@ -18,3 +18,7 @@ body {
 .examples{
     font-style: italic;
 }
+
+.title {
+    color: blue;
+}
