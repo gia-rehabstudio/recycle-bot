@@ -1,0 +1,4 @@
+name: recycle-bot
+recipe: lamp
+config:
+  webroot: .

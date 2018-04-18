@@ -1,8 +1,8 @@
 body {
-    background-image: url('../images/recycle-bg.jpg');
-    background-size: cover;
-    color: white;
-    font-family: helvetica;
+    /* background-image: url('../images/recycle-bg.jpg');
+    background-size: cover; */
+    /* color: white; */
+    /* font-family: helvetica; */
 }
 
 .dialog {
@@ -14,4 +14,7 @@ body {
 
 .b-agent-demo .b-agent-demo_header-wrapper {
     background-color: pink!important;
+}
+.examples{
+    font-style: italic;
 }

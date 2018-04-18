@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gia-rehabstudio/recycle-bot/issues"
   },
-  "homepage": "https://github.com/gia-rehabstudio/recycle-bot#readme"
+  "homepage": "https://github.com/gia-rehabstudio/recycle-bot#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.0"
+  }
 }
