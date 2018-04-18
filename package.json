@@ -1,0 +1,19 @@
+{
+  "name": "recycle-bot",
+  "version": "1.0.0",
+  "description": "It can be really difficult to determine what objects you can and can’t recycle - but RecycleBot is here to help!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gia-rehabstudio/recycle-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gia-rehabstudio/recycle-bot/issues"
+  },
+  "homepage": "https://github.com/gia-rehabstudio/recycle-bot#readme"
+}
