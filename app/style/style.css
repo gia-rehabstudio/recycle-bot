@@ -23,9 +23,18 @@ body {
     color: blue;
 }
 
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 14px;
+    }
+    h2 {
+        font-size: 10px;
+    }
 
     iframe {
         width: 100%;
+    }
+    .intro{
+        display: none;
     }
 }
